@@ -24,8 +24,7 @@ public class Tmas {
                 k++;
             }
         }
-        System.out.println(k);
-        System.out.println(k);
+
         System.out.println(k);
         int[] result = new int[k];
         for (int number : numbers) {
