@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_5_1_11/GeNer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_5/Task_5_1_11/GeNer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_5_1_12/GeNer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_5/Task_5_1_12/GeNer2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ISRAHAN1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b2bdf7ff-be96-4508-a0c6-b4d0ebdd7ff9" />
+        <option name="url" value="https://github.com/ISRAHAN1/learning-java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Glava_2/Task_2_1_7/Enums.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Glava_2/Task_2_4_9/JavaStudent.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Xyc2AdKq3G6jG1ZSJ3FBsP85aq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/lesson.Java/Task 1.2.7&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Java/Task 1.2.7/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Glava_4.Task_4_4_9" />
+      <recent name="Glava_3.Task_3_2_4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\lesson.Java\Task 1.2.7\src\Glava_1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Glava_5.Task_5_1_11" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Path" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.A12">
+    <configuration name="A12" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Glava_1.Task_1_2_10.A12" />
+      <module name="Task 1.2.7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Glava_1.Task_1_2_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BukVa" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Glava_1.Task_1_3_2.BukVa" />
+      <module name="Task 1.2.7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Glava_1.Task_1_3_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maxis" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Glava_1.Task_1_2_14.Maxis" />
+      <module name="Task 1.2.7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Glava_1.Task_1_2_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Okr" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Glava_1.Task_1_2_13.Okr" />
+      <module name="Task 1.2.7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Glava_1.Task_1_2_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="" />
+      <created>1699604552786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699604552786</updated>
+    </task>
+    <task id="LOCAL-00044" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1703835353581</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1703835353581</updated>
+    </task>
+    <task id="LOCAL-00045" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1703835577070</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1703835577070</updated>
+    </task>
+    <task id="LOCAL-00046" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1704700204559</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1704700204559</updated>
+    </task>
+    <task id="LOCAL-00047" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1704708265239</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1704708265239</updated>
+    </task>
+    <task id="LOCAL-00048" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1705151029589</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1705151029589</updated>
+    </task>
+    <task id="LOCAL-00049" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1705307623236</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1705307623236</updated>
+    </task>
+    <task id="LOCAL-00050" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1705314232420</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1705314232420</updated>
+    </task>
+    <task id="LOCAL-00051" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1705396867796</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1705396867797</updated>
+    </task>
+    <task id="LOCAL-00052" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1706360702422</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1706360702423</updated>
+    </task>
+    <task id="LOCAL-00053" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1706360825351</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1706360825351</updated>
+    </task>
+    <task id="LOCAL-00054" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1706525312608</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1706525312609</updated>
+    </task>
+    <task id="LOCAL-00055" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1706702711496</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1706702711497</updated>
+    </task>
+    <task id="LOCAL-00056" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1707206027126</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1707206027127</updated>
+    </task>
+    <task id="LOCAL-00057" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1707220248080</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1707220248080</updated>
+    </task>
+    <task id="LOCAL-00058" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1707224371709</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1707224371709</updated>
+    </task>
+    <task id="LOCAL-00059" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1707910547678</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1707910547678</updated>
+    </task>
+    <task id="LOCAL-00060" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1707915393853</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1707915393853</updated>
+    </task>
+    <task id="LOCAL-00061" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1708430001363</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1708430001364</updated>
+    </task>
+    <task id="LOCAL-00062" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1708715771195</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1708715771196</updated>
+    </task>
+    <task id="LOCAL-00063" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1708803684711</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1708803684712</updated>
+    </task>
+    <task id="LOCAL-00064" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1708803713350</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1708803713350</updated>
+    </task>
+    <task id="LOCAL-00065" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1708803905969</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1708803905969</updated>
+    </task>
+    <task id="LOCAL-00066" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1709549335124</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1709549335125</updated>
+    </task>
+    <task id="LOCAL-00067" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1709648989495</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1709648989496</updated>
+    </task>
+    <task id="LOCAL-00068" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1709801833623</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1709801833624</updated>
+    </task>
+    <task id="LOCAL-00069" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1710073163821</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1710073163822</updated>
+    </task>
+    <task id="LOCAL-00070" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1710342181483</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1710342181484</updated>
+    </task>
+    <task id="LOCAL-00071" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1710757703699</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1710757703701</updated>
+    </task>
+    <task id="LOCAL-00072" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1711472429306</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1711472429307</updated>
+    </task>
+    <task id="LOCAL-00073" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1711480235828</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1711480235828</updated>
+    </task>
+    <task id="LOCAL-00074" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1711480370960</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1711480370961</updated>
+    </task>
+    <task id="LOCAL-00075" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1711480461431</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1711480461431</updated>
+    </task>
+    <task id="LOCAL-00076" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1711480986202</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1711480986202</updated>
+    </task>
+    <task id="LOCAL-00077" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1712777767506</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1712777767507</updated>
+    </task>
+    <task id="LOCAL-00078" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1712948507614</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1712948507615</updated>
+    </task>
+    <task id="LOCAL-00079" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1713001246784</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1713001246785</updated>
+    </task>
+    <task id="LOCAL-00080" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1713185022065</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1713185022065</updated>
+    </task>
+    <task id="LOCAL-00081" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1714127830880</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1714127830881</updated>
+    </task>
+    <task id="LOCAL-00082" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1714227956354</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1714227956355</updated>
+    </task>
+    <task id="LOCAL-00083" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1714402013754</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1714402013755</updated>
+    </task>
+    <task id="LOCAL-00084" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1714721113885</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1714721113886</updated>
+    </task>
+    <task id="LOCAL-00085" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1714721323029</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1714721323029</updated>
+    </task>
+    <task id="LOCAL-00086" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1714721687921</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1714721687921</updated>
+    </task>
+    <task id="LOCAL-00087" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1714995733200</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1714995733201</updated>
+    </task>
+    <task id="LOCAL-00088" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1716285533646</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285533646</updated>
+    </task>
+    <task id="LOCAL-00089" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1716286296816</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1716286296816</updated>
+    </task>
+    <task id="LOCAL-00090" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1716296563684</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1716296563685</updated>
+    </task>
+    <task id="LOCAL-00091" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1721465718118</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1721465718119</updated>
+    </task>
+    <task id="LOCAL-00092" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1721466510947</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1721466510947</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="im change veriables." />
+    <option name="LAST_COMMIT_MESSAGE" value="im change veriables." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Okr.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Glava_1/Task_1_5_10_/SerM.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Glava_1/Task_1_5_11_/PRM.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="16" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="hashIsZero" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
