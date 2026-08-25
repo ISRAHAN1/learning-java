@@ -12,8 +12,6 @@ public class Chisla {
             System.out.print(result[i]);
             a=1;
         }
-
-
     }
     public static int[]inverseArray(int[]numbers){
         int[] result=new int[numbers.length];

@@ -7,6 +7,6 @@ public class Bukva {
 
     }
     public static char charExpression(int a){
-        return (char) ('\\' +a);
+       return (char) ('\\'+a);
     }
 }

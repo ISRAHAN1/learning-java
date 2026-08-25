@@ -4,12 +4,12 @@ public class Age {
     public static void main(String[] args) {
         Age age = new Age();
         int bonus = age.determineGroup(10);
-        System.out.println("это относиться к " + bonus +"-группе");
+        System.out.println("это относиться к " + bonus + "-группе");
 
 
     }
 
-    public int determineGroup(int age) {
+    public  int determineGroup(int age) {
         int result;
         if (age < 7) {
             result = -1;

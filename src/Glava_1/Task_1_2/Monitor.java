@@ -4,7 +4,7 @@ public class Monitor {
     public static void main(String[] args) {
         int monitors = 50;
         int programmers = 2;
-        System.out.println(Monitor.drawMonitors(monitors, programmers));
+        System.out.println(drawMonitors(monitors,programmers));
 
     }
 
