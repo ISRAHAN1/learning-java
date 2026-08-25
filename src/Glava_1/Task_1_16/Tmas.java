@@ -26,6 +26,7 @@ public class Tmas {
         }
         System.out.println(k);
         System.out.println(k);
+        System.out.println(k);
         int[] result = new int[k];
         for (int number : numbers) {
             if (number >= start && number <= end) {
